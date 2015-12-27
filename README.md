@@ -1,11 +1,8 @@
 # ruby-bookmarks
 
-* https://github.com/franzejr/best-ruby
-
-  Examples of some tips and tricks for Ruby Development
-
+* Examples of some tips and tricks for Ruby Development: https://github.com/franzejr/best-ruby 
 
 # General
 
-* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists
-  Markdown cheatsheet
+* Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists
+  
